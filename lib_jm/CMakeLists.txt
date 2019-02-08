@@ -1,0 +1,12 @@
+cmake_minimum_required( VERSION 3.7.1 )
+
+project( lib_jm )
+
+
+include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-header.cmake )
+
+
+add_subdirectory( jmsd_cule_lib )
+
+
+include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-footer.cmake )
