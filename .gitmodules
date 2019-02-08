@@ -1,3 +1,9 @@
 [submodule "lib_jm/jmsd_cule_lib"]
 	path = lib_jm/jmsd_cule_lib
 	url = https://github.com/jiteman/jmsd_cule_lib.git
+[submodule "lib_jm/jmsd_nutfield_lib"]
+	path = lib_jm/jmsd_nutfield_lib
+	url = https://github.com/jiteman/jmsd_nutfield_lib.git
+[submodule "lib_jm/jmsd_cutflower_lib"]
+	path = lib_jm/jmsd_cutflower_lib
+	url = https://github.com/jiteman/jmsd_cutflower_lib.git
