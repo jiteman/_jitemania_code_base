@@ -12,7 +12,7 @@ set( JMSD_JITEMANIA_TEST_EXE_PATH ${PROJECT_SOURCE_DIR}/test_exe_jm )
 set( JMSD_JITEMANIA_TEST_PATH ${PROJECT_SOURCE_DIR}/test_jm )
 
 
-# add_subdirectory( lib_jm )
+add_subdirectory( lib_jm )
 # add_subdirectory( exe_jm )
 # add_subdirectory( test_jm )
 # add_subdirectory( test_exe_jm )
