@@ -13,3 +13,6 @@
 [submodule "lib_jm/jmsd_cppunitlite_lib"]
 	path = lib_jm/jmsd_cppunitlite_lib
 	url = https://github.com/jiteman/jmsd_cppunitlite_lib.git
+[submodule "lib_jm/jmsd_natibase_libs"]
+	path = lib_jm/jmsd_natibase_libs
+	url = https://github.com/jiteman/jmsd_natibase_libs.git
