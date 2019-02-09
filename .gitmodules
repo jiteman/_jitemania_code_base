@@ -7,3 +7,9 @@
 [submodule "lib_jm/jmsd_cutflower_lib"]
 	path = lib_jm/jmsd_cutflower_lib
 	url = https://github.com/jiteman/jmsd_cutflower_lib.git
+[submodule "lib_jm/jmsd_cppunit_lib"]
+	path = lib_jm/jmsd_cppunit_lib
+	url = https://github.com/jiteman/jmsd_cppunit_lib.git
+[submodule "lib_jm/jmsd_cppunitlite_lib"]
+	path = lib_jm/jmsd_cppunitlite_lib
+	url = https://github.com/jiteman/jmsd_cppunitlite_lib.git
