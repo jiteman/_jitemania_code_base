@@ -6,6 +6,8 @@ project( lib_jm )
 include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-header.cmake )
 
 
+add_subdirectory( jmsd_natibase_libs )
+
 # add_subdirectory( jmsd_cppunit_lib )
 # add_subdirectory( jmsd_cppunitlite_lib )
 
