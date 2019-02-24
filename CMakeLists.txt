@@ -16,6 +16,9 @@ add_subdirectory( lib_jm )
 # add_subdirectory( exe_jm )
 # add_subdirectory( test_jm )
 # add_subdirectory( test_exe_jm )
+# add_subdirectory( xlib_jm )
+# add_subdirectory( xexe_jm )
+
 
 
 include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-footer.cmake )
