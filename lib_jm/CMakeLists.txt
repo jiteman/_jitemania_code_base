@@ -3,7 +3,7 @@ cmake_minimum_required( VERSION 3.7.1 )
 project( lib_jm )
 
 
-include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-header.cmake )
+JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
 add_subdirectory( jmsd_natibase_libs )
@@ -16,4 +16,4 @@ add_subdirectory( jmsd_natibase_libs )
 # add_subdirectory( jmsd_cutflower_lib )
 
 
-include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-footer.cmake )
+JMSD_SHOW_PROJECT_GROUP_FOOTER()

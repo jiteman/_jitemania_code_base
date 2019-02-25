@@ -3,7 +3,7 @@ cmake_minimum_required( VERSION 3.7.1 )
 project( jmsd_jitemania_code_base )
 
 
-include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-header.cmake )
+JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
 set( JMSD_JITEMANIA_EXE_PATH ${PROJECT_SOURCE_DIR}/exe_jm )
@@ -21,4 +21,4 @@ add_subdirectory( lib_jm )
 
 
 
-include( ${JMSD_CMAKE_SETTINGS_PATH}/verbosity/project-group-footer.cmake )
+JMSD_SHOW_PROJECT_GROUP_FOOTER()
